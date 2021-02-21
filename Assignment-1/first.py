@@ -1,1 +1,0 @@
-print("Assignment-1");
